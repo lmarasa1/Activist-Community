@@ -1,9 +1,11 @@
 # Activist-Community
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Activist Coimmunity is a Web App enabling people to publicly express their objection to creative tax avoidance, unfair
+employment practices, racism, disregard of environmental impact and other
+unethical business and political practices.
+> Live demo [_here_](https://github.com/lmarasa1/Activist-Community/blob/main/Images/74850_Luca_Marasa_demo_1635715_195983811.webm). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Introduction](#Introduction)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -16,8 +18,9 @@
 <!-- * [License](#license) -->
 
 
-## General Information
-- Provide general information about your project here.
+## Introduction
+The aim of the project is to allow users to sign up and create petitions relating to various social justice topics that can be viewed and signed by other users. To that end end a full stack website was developed where using various front end and back-end technologies. This project was part of a peice of coursework that attempted to asess how well those various technologies were learnt.
+
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
@@ -25,16 +28,25 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Java Script - ECMAScript 2018
+- HTML5
+- CSS3
+- ASP.Net MVC and razer view
+- C# - version 10
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+
+- Ability to create Member accounts
+- Members can create new Causes
+- Can electronically sign under Causes using a Member account
+- There is a special “Admin” account which can delete Causes
+- A list of names who have signed a Cause  visible to anyone
+- A counter of how many people have signed a Cause visible to anyone
+- The website must be usable from an Internet-capable mobile phone
+- Ability to see signature counts and actual new signatures as they happen
+- Ability to share causes Facebook.
+ 
 
 
 ## Screenshots
