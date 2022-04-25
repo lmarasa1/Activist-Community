@@ -91,7 +91,7 @@ Give credit here.
 
 
 ## Contact
-Created by [email](lmarasa1@yahoo.co.uk) - feel free to contact me!
+Created by [email](mailto:lmarasa1@yahoo.co.uk) - feel free to contact me!
 
 
 <!-- Optional -->
