@@ -31,6 +31,8 @@ The aim of the project is to allow users to sign up and create petitions relatin
 - CSS3
 - ASP.Net MVC and razer view
 - C# - version 10
+- Bootstrap
+- JQuery
 
 
 ## Features
