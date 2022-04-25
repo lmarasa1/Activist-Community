@@ -55,7 +55,6 @@ The aim of the project is to allow users to sign up and create petitions relatin
 
 ## Setup
 Requires installation of Visual Studio 2022 . Project can be started from Visual Studio by cloning the repository with the link: https://github.com/lmarasa1/Activist-Community.
-#What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 
 ## Project Status
