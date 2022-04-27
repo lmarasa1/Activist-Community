@@ -49,7 +49,7 @@ The aim of the project is to allow users to sign up and create petitions relatin
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Images/AdobeStock_291774831-1200x800.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
