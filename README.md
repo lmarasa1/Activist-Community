@@ -61,11 +61,6 @@ Requires installation of Visual Studio 2022 . Project can be started from Visual
 Project is no longer being worked on as it was part of an assesment.
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 ## Contact
